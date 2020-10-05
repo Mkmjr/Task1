@@ -1,0 +1,191 @@
+body
+{
+    
+}
+
+.about
+{
+    background-color: #fcdab7;
+    margin: 1rem;
+}
+
+.about1 p
+{
+    font-family: 'Abel', sans-serif;
+    font-size: 18px;
+}
+
+.btn1
+{
+    text-align: center;
+    margin: 1rem 0rem 2rem 0rem;
+}
+
+.btns1
+{
+    margin: 0px 10px;
+    background-color: rgb(148, 207, 207) ;
+    font-family:'Montserrat';
+}
+
+.btns2
+{
+    margin: 0px 10px;
+    background-color: rgb(148, 207, 207);
+    font-family:'Montserrat';;
+}
+
+.carousel-item
+{
+    padding: 7% 15%;
+    text-align: center;
+    line-height: 2rem;
+    background-color: whitesmoke;
+}
+
+.carousel-item em
+{
+    padding-top: 0.7rem;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.features
+{
+    padding: 2rem;
+    text-align: center;
+}
+
+.features p
+{
+    font-family: 'Ubuntu';
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.img-fluid
+{
+    opacity: 0.8;
+}
+
+.foot
+{
+text-align: center;
+background-color: #fcdab7;
+}
+
+.footimg
+{
+    height: auto;
+    width: 280px;
+    padding: 2.5rem;
+}
+
+.footlink
+{
+    margin: 0px 5px 0px 5px;
+}
+
+.foot i
+{
+    padding: 1rem 0.5rem 0rem 0.5rem;
+}
+
+.foot1
+{
+    margin: 1rem 0rem;
+}
+
+.heading1
+{
+    height: auto;
+    width: 500px;
+    display: block;
+    margin:  auto;
+    padding: 2rem;
+}
+
+.icon1
+{
+    font-size: 100px;
+    padding-bottom: 1.5rem;
+    margin: 1rem;
+}
+
+.icon1:hover
+{
+    color: rgb(21, 75, 201);
+}
+
+.logo-brand
+{
+    height: 38px;
+    width: 120px;
+    overflow: hidden;
+}
+
+.nav-item
+{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.nav-link
+{
+    color: white;
+}
+
+.connect
+{
+    text-align: center;
+    margin: 1.5rem;
+}
+
+.connect h2
+{
+    margin-bottom: 3rem;
+}
+
+.social
+{
+    font-size: 100px;
+    margin-bottom: 1rem;
+}
+
+.testimonial-image
+{
+    border-radius: 100px;
+    height: 100px;
+    width: auto;
+}
+
+#twitter:hover
+{
+    color: #00aced;
+}
+
+#facebook:hover
+{
+    color: #3b5998;;
+}
+
+#instagram:hover
+{
+    color:  #bc2a8d;
+} 
+
+
+#linkedin:hover
+{
+    color: #007bb6;
+}
+
+#whatsapp:hover
+{
+    color: rgb(68, 206, 68);
+}
+
+#youtube:hover
+{
+    color: #bb0000;
+}
